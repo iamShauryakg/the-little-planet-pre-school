@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="46" fill="#10B981" fill-opacity="0.15" stroke="#059669" stroke-width="4" />
+  <!-- Planet ring/orbit -->
+  <ellipse cx="50" cy="50" rx="42" ry="16" stroke="#FBBF24" stroke-width="3" stroke-dasharray="4 3" transform="rotate(-20 50 50)" fill="none" opacity="0.85"/>
+  <!-- Planet surface / ground -->
+  <path d="M22 68 Q50 54 78 68 A46 46 0 0 1 22 68 Z" fill="#059669"/>
+  <!-- Tree Trunk -->
+  <rect x="46" y="44" width="8" height="24" rx="3" fill="#B45309" />
+  <!-- Tree Foliage / Canopy -->
+  <circle cx="50" cy="34" r="18" fill="#10B981" />
+  <circle cx="40" cy="38" r="13" fill="#34D399" />
+  <circle cx="60" cy="38" r="13" fill="#059669" />
+  <!-- Little Sparkle/Star -->
+  <circle cx="28" cy="26" r="3.5" fill="#F59E0B" />
+  <circle cx="72" cy="24" r="2.5" fill="#38BDF8" />
+  <circle cx="76" cy="48" r="3" fill="#F43F5E" />
+</svg>

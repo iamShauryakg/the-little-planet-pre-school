@@ -1,0 +1,6 @@
+{
+  "name": "The Little Planet Pre School",
+  "description": "The Little Planet Pre School in Hasanpur, Amroha provides a caring and playful learning environment for children from Pre-Nursery to UKG. Explore our classes, activities, facilities and admissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
