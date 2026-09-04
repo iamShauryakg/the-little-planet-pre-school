@@ -5,6 +5,8 @@ export interface SchoolConfig {
   address: string;
   phone: string;
   formattedPhone: string;
+  phone2: string;
+  formattedPhone2: string;
   whatsapp: string;
   formattedWhatsapp: string;
   email: string;

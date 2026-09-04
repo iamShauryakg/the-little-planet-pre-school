@@ -20,21 +20,24 @@ export const schoolConfig: SchoolConfig = {
   location: 'Hasanpur, Amroha, Uttar Pradesh, India',
 
   // Full Postal Address
-  address: 'Near Shivalya Mandir, Hasanpur, Amroha, Uttar Pradesh',
+  address: 'Mohalla Holi Wala, Hasanpur, Amroha, Uttar Pradesh',
 
   // Contact Phone Number
-  phone: '9528205752',
-  formattedPhone: '+91 95282 05752',
+  phone: '9411908900',
+  formattedPhone: '94119 08900',
+  
+  phone2: '8923816985',
+  formattedPhone2: '89238 16985',
 
   // Official WhatsApp Number
-  whatsapp: '919528205752',
-  formattedWhatsapp: '+91 95282 05752',
+  whatsapp: '919411908900',
+  formattedWhatsapp: '+91 94119 08900',
 
   // Official Email Address
-  email: 'coolshourya02003@gmail.com',
+  email: 'school.tlpp@gmail.com',
 
   // School Hours (Editable Placeholder)
-  schoolTimings: '8:00 AM – 2:00 PM',
+  schoolTimings: '8:00 AM – 12:00 PM',
 
   // Operational Days
   workingDays: 'Monday – Saturday',

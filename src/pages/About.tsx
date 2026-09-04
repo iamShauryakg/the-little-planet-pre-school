@@ -66,7 +66,7 @@ export const About: React.FC = () => {
               />
 
               <p className="text-stone-600 leading-relaxed text-sm sm:text-base font-normal">
-                Located near Shivalya Mandir in Hasanpur, <strong>The Little Planet Pre School</strong> is designed to feel like a vibrant little garden where children feel safe to step away from home, make their first friendships, and express themselves openly.
+                Located Mohalla Holi Wala in Hasanpur, <strong>The Little Planet Pre School</strong> is designed to feel like a vibrant little garden where children feel safe to step away from home, make their first friendships, and express themselves openly.
               </p>
 
               <p className="mt-4 text-stone-600 leading-relaxed text-sm sm:text-base font-normal">

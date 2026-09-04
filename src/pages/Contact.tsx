@@ -24,7 +24,7 @@ export const Contact: React.FC = () => {
   const contactChannels = [
     {
       title: 'Phone Number',
-      value: schoolConfig.formattedPhone,
+      value: `${schoolConfig.formattedPhone} / ${schoolConfig.formattedPhone2}`,
       sub: 'Direct phone line for quick enquiries',
       action: `tel:+91${schoolConfig.phone}`,
       actionLabel: 'Call Now',
@@ -33,7 +33,7 @@ export const Contact: React.FC = () => {
     },
     {
       title: 'WhatsApp Desk',
-      value: schoolConfig.formattedPhone,
+      value: schoolConfig.formattedWhatsapp,
       sub: 'Instant chat for admission queries',
       action: `https://wa.me/${schoolConfig.whatsapp}?text=${encodeURIComponent(
         'Hello The Little Planet Pre School, I would like to enquire about admission.'
@@ -54,7 +54,7 @@ export const Contact: React.FC = () => {
     {
       title: 'Campus Address',
       value: schoolConfig.address,
-      sub: 'Hasanpur, Amroha, Uttar Pradesh, India',
+      sub: 'Mohalla Holi Wala, Hasanpur, Amroha, Uttar Pradesh, India',
       action: schoolConfig.googleMapsUrl,
       actionLabel: 'View on Google Maps',
       icon: MapPin,
@@ -68,7 +68,7 @@ export const Contact: React.FC = () => {
       <PageHero
         badge="Reach Out"
         title="Contact The Little Planet Pre School"
-        description="We are located near Shivalya Mandir in Hasanpur. Reach out via phone, WhatsApp, email, or visit our campus."
+        description="We are located Mohalla Holi Wala in Hasanpur. Reach out via phone, WhatsApp, email, or visit our campus."
         breadcrumbCurrent="Contact Us"
       />
 

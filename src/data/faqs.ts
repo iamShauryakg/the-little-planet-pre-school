@@ -33,7 +33,7 @@ export const faqsData: FAQItem[] = [
     id: 'faq-4',
     question: 'How can I enquire about admission or book a campus visit?',
     answer:
-      'You can submit the online enquiry form on our Admissions page, send us a WhatsApp message at +91 95282 05752, call us directly at 9528205752, or visit our campus near Shivalya Mandir in Hasanpur, Amroha.',
+      'You can submit the online enquiry form on our Admissions page, send us a WhatsApp message at +91 95282 05752, call us directly at  9411908900 or 8923816985, or visit our campus Mohalla Holi Wala in Hasanpur, Amroha.',
     category: 'Admissions',
   },
   {
@@ -47,7 +47,7 @@ export const faqsData: FAQItem[] = [
     id: 'faq-6',
     question: 'Where is the school located?',
     answer:
-      'The Little Planet Pre School is located Near Shivalya Mandir, Hasanpur, Amroha, Uttar Pradesh, India. You can easily find our exact location on Google Maps through the link provided on our Contact page.',
+      'The Little Planet Pre School is located Mohalla Holi Wala, Hasanpur, Amroha, Uttar Pradesh, India. You can easily find our exact location on Google Maps through the link provided on our Contact page.',
     category: 'General',
   },
   {

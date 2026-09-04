@@ -33,7 +33,7 @@ export const Hero: React.FC = () => {
 
             {/* Supporting Description */}
             <p className="text-base sm:text-lg text-[#52796F] max-w-[540px] leading-relaxed font-normal">
-              Building strong foundations through play, creativity, and exploration in a safe, nature-inspired environment near Shivalya Mandir, Hasanpur (Amroha).
+              Building strong foundations through play, creativity, and exploration in a safe, nature-inspired environment Mohalla Holi Wala, Hasanpur (Amroha).
             </p>
 
             {/* Action Buttons */}
@@ -165,7 +165,7 @@ export const Hero: React.FC = () => {
                   Visit Us in Hasanpur
                 </span>
                 <p className="text-base sm:text-lg font-medium leading-snug mb-4 text-white">
-                  Near Shivalya Mandir, Hasanpur, Amroha, Uttar Pradesh
+                  Mohalla Holi Wala, Hasanpur, Amroha, Uttar Pradesh
                 </p>
 
                 <div className="flex flex-wrap items-center gap-4 pt-1 border-t border-white/15">
@@ -178,6 +178,12 @@ export const Hero: React.FC = () => {
                       className="text-base sm:text-lg font-display font-bold text-white hover:text-[#FFB703] transition-colors"
                     >
                       +91 {schoolConfig.formattedPhone}
+                    </a> 
+                    <a
+                      href={`tel:+91${schoolConfig.phone2}`}
+                      className="text-base sm:text-lg font-display font-bold text-white hover:text-[#FFB703] transition-colors"
+                    >
+                      +91 {schoolConfig.formattedPhone2}
                     </a>
                   </div>
 

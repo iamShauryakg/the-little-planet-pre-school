@@ -38,11 +38,11 @@ export const AdmissionCTA: React.FC = () => {
           </div>
           <div className="flex items-center gap-2">
             <MapPin className="w-4 h-4 text-[#FFB703]" />
-            <span>Campus: <strong>Near Shivalya Mandir, Hasanpur</strong></span>
+            <span>Campus: <strong>Mohalla Holi Wala, Hasanpur</strong></span>
           </div>
           <div className="flex items-center gap-2">
             <Phone className="w-4 h-4 text-[#FFB703]" />
-            <span>Call: <strong>{schoolConfig.formattedPhone}</strong></span>
+            <span>Call: <strong>{schoolConfig.formattedPhone}, {schoolConfig.formattedPhone2}</strong></span>
           </div>
         </div>
 

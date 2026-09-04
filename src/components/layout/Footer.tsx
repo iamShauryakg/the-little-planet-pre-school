@@ -134,6 +134,9 @@ export const Footer: React.FC = () => {
                   <strong>Phone / WhatsApp:</strong>{' '}
                   <a href={`tel:+91${schoolConfig.phone}`} className="hover:text-white font-medium underline-offset-2 hover:underline">
                     {schoolConfig.formattedPhone}
+                  </a>, {' '}
+                  <a href={`tel:+91${schoolConfig.phone2}`} className="hover:text-white font-medium underline-offset-2 hover:underline">
+                    {schoolConfig.formattedPhone2}
                   </a>
                 </span>
               </li>
