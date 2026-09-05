@@ -122,7 +122,7 @@ export const Navbar: React.FC = () => {
       {/* Mobile Drawer Navigation */}
       {isMobileMenuOpen && (
         <div className="fixed inset-0 top-[64px] bg-[#1B4332]/40 backdrop-blur-xs z-40 lg:hidden flex flex-col justify-between">
-          <div className="bg-white px-5 pt-4 pb-8 shadow-2xl rounded-b-[32px] border-b border-[#E1E8DC] min-h-[calc(100vh-70px)] overflow-y-auto">
+          <div className="bg-white px-5 pt-4 pb-8 shadow-2xl rounded-b-[32px] border-b border-[#E1E8DC] min-h-[calc(90vh-100px)] overflow-y-auto">
             <div className="flex flex-col gap-1.5">
               {navLinks.map((link) => (
                 <NavLink
